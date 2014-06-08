@@ -1,0 +1,56 @@
+﻿生成启动时间为 2014/6/4 13:25:11。
+     1>项目“E:\vs2010projects\openclothnewholiday\OpenCloth_PositionBasedDynamics\OpenCloth_PositionBasedDynamics\OpenCloth_PositionBasedDynamics.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\OpenCloth_PositionBasedDynamics.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"E:\vs2010projects\openclothnewholiday\include bin lib" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(109): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(134): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(153): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(157): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(183): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(265): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(396): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(408): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(421): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(440): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(449): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(466): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(471): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(503): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(508): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(513): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(550): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(363) : 参见“_snprintf”的声明
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(551): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(631): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(661): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(680): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(697): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(711): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(717): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(730): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010projects\openclothnewholiday\opencloth_positionbaseddynamics\opencloth_positionbaseddynamics\main.cpp(875): warning C4018: “<”: 有符号/无符号不匹配
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\vs2010projects\openclothnewholiday\OpenCloth_PositionBasedDynamics\Debug\OpenCloth_PositionBasedDynamics.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\vs2010projects\openclothnewholiday\include bin lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OpenCloth_PositionBasedDynamics.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\vs2010projects\openclothnewholiday\OpenCloth_PositionBasedDynamics\Debug\OpenCloth_PositionBasedDynamics.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\vs2010projects\openclothnewholiday\OpenCloth_PositionBasedDynamics\Debug\OpenCloth_PositionBasedDynamics.lib" /MACHINE:X86 Debug\OpenCloth_PositionBasedDynamics.exe.embed.manifest.res
+         Debug\glm.obj
+         Debug\main.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\OpenCloth_PositionBasedDynamics.exe.embed.manifest" /manifest Debug\OpenCloth_PositionBasedDynamics.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         OpenCloth_PositionBasedDynamics.vcxproj -> E:\vs2010projects\openclothnewholiday\OpenCloth_PositionBasedDynamics\Debug\OpenCloth_PositionBasedDynamics.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\OpenCloth_PositionBasedDynamics.unsuccessfulbuild”。
+         正在对“Debug\OpenCloth_PositionBasedDynamics.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\vs2010projects\openclothnewholiday\OpenCloth_PositionBasedDynamics\OpenCloth_PositionBasedDynamics\OpenCloth_PositionBasedDynamics.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.78
